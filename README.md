@@ -1,2 +1,2 @@
 
-ER diagram and DFD diagram
+ER diagram, DFD diagram and entities 
